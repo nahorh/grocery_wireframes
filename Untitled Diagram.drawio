@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T16:31:51.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xRQUtB-oi_c7J40WwsBT" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T16:32:33.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="iOpLa00utYJPmf6j3CDF" version="16.6.1" type="github">
   <diagram id="DkxhXxDabkg7D8pgcrME" name="Page-1">
     <mxGraphModel dx="1224" dy="1083" grid="0" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -512,8 +512,17 @@
         <mxCell id="Aevf2vQ9ivyhsPbp5xpm-136" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
           <mxGeometry x="597.56" y="429.51" width="46.12" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="Aevf2vQ9ivyhsPbp5xpm-138" value="&lt;span&gt;PALLETES&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
+        <mxCell id="Aevf2vQ9ivyhsPbp5xpm-138" value="Chicago" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
           <mxGeometry x="512" y="201" width="64.12" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Aevf2vQ9ivyhsPbp5xpm-140" value="Chicago" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
+          <mxGeometry x="512" y="278.25" width="64.12" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Aevf2vQ9ivyhsPbp5xpm-141" value="Chicago" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
+          <mxGeometry x="512" y="351.5" width="64.12" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Aevf2vQ9ivyhsPbp5xpm-142" value="Chicago" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;" vertex="1" parent="hHE543pLZx1zD03s0N3J-409">
+          <mxGeometry x="512" y="429.51" width="64.12" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="hHE543pLZx1zD03s0N3J-413" value="LOGOUT" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1979.7570000000003" y="461.99700000000007" width="86" height="33" as="geometry" />
