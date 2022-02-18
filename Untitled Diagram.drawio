@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T09:30:39.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zy6MaPGb-NvIMF-HeFCb" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T09:31:52.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QA9LuGF0a3K2gRfqMdZu" version="16.5.6" type="github">
   <diagram id="DkxhXxDabkg7D8pgcrME" name="Page-1">
-    <mxGraphModel dx="2032" dy="1538" grid="0" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1391" dy="1179" grid="0" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="132" y="224" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hHE543pLZx1zD03s0N3J-292" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="114" y="-65" width="813" height="495" as="geometry" />
+          <mxGeometry x="114" y="-65" width="869.36" height="495" as="geometry" />
         </mxCell>
         <mxCell id="hHE543pLZx1zD03s0N3J-157" value="Search by SKUID" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="hHE543pLZx1zD03s0N3J-292">
           <mxGeometry x="0.37999999999999545" width="338.59" height="30" as="geometry" />
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="hHE543pLZx1zD03s0N3J-290" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#B0B0B0;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="hHE543pLZx1zD03s0N3J-292">
           <mxGeometry x="9.746999999999986" y="290.497" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hHE543pLZx1zD03s0N3J-295" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Store_Marketplace.svg;rounded=0;shadow=0;fontColor=#0057D8;fillColor=#B3B3B3;gradientColor=none;" vertex="1" parent="hHE543pLZx1zD03s0N3J-292">
+          <mxGeometry x="762" y="-65" width="107.36" height="122" as="geometry" />
         </mxCell>
         <mxCell id="hHE543pLZx1zD03s0N3J-293" value="BACK" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="61.03" y="462" width="86" height="33" as="geometry" />
