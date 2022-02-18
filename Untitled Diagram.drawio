@@ -1,33 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T08:30:53.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="orSc6HAMUpUk0THKZmJ_" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T08:39:03.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="veeGmyffs9iI2Zpei9P1" version="16.5.6" type="github">
   <diagram id="DkxhXxDabkg7D8pgcrME" name="Page-1">
-    <mxGraphModel dx="1573" dy="1017" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="9387" dy="5333" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hHE543pLZx1zD03s0N3J-1" value="SKU ID" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-251.98" y="-200.79" width="181.102" height="441.07" as="geometry">
-            <mxRectangle x="-98.43" y="-200.79" width="133.858" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hHE543pLZx1zD03s0N3J-2" value="PRODUCT NAME" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-70.87" y="-200.79" width="181.1" height="440.95" as="geometry">
-            <mxRectangle x="-98.43" y="-200.79" width="133.858" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hHE543pLZx1zD03s0N3J-4" value="CURRENT INVENTORY QTY" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="291.35" y="-200.79" width="181.09" height="441.07" as="geometry">
-            <mxRectangle x="-98.43" y="-200.79" width="133.858" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hHE543pLZx1zD03s0N3J-3" value="UNIT OF MEASURE" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="110.24399999999993" y="-200.786" width="181.102" height="441.07" as="geometry">
-            <mxRectangle x="-98.43" y="-200.79" width="133.858" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hHE543pLZx1zD03s0N3J-5" value="NEW ORDER QTY" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="472.437" y="-200.79299999999998" width="181.09" height="441.07" as="geometry">
-            <mxRectangle x="-98.43" y="-200.79" width="133.858" height="23" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="hHE543pLZx1zD03s0N3J-19" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="39.36999999999994" y="-181.10000000000002" width="4700.778" height="3283.458" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
