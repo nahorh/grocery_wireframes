@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T16:24:00.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IdU2yFEh0k_U9fPQwOfG" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T16:25:16.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QT3hyBLyxt6G4JKkU_Uc" version="16.6.1" type="github">
   <diagram id="DkxhXxDabkg7D8pgcrME" name="Page-1">
-    <mxGraphModel dx="5133" dy="2331" grid="0" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="6352" dy="2839" grid="0" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1123,12 +1123,6 @@
         <mxCell id="wsWiVV3hX5GRjNbrC7tr-182" value="ARVI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="wsWiVV3hX5GRjNbrC7tr-178">
           <mxGeometry y="228.51" width="129.68" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="5fSM42kQuB0MBU0cEA5B-1" value="Save" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workdocs;fillColor=#4495D1;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1911.3" y="-983.4000000000001" width="42.5" height="48.68" as="geometry" />
-        </mxCell>
-        <mxCell id="5fSM42kQuB0MBU0cEA5B-2" value="Upload" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.upload;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1667.3" y="-974.97" width="69" height="40.25" as="geometry" />
-        </mxCell>
         <mxCell id="wsWiVV3hX5GRjNbrC7tr-6" value="Submit Order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-892.9959999999999" y="-967.716" width="106" height="33" as="geometry" />
         </mxCell>
@@ -1140,6 +1134,18 @@
         </mxCell>
         <mxCell id="wsWiVV3hX5GRjNbrC7tr-11" value="Save Draft order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-717" y="-967.72" width="106" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wsWiVV3hX5GRjNbrC7tr-326" value="Submit Order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-2066.299" y="-967.709" width="106" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wsWiVV3hX5GRjNbrC7tr-327" value="Edit Order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1719.3019999999997" y="-967.7119999999999" width="106" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wsWiVV3hX5GRjNbrC7tr-328" value="Delete Order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1549.3049999999998" y="-967.7049999999999" width="106" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wsWiVV3hX5GRjNbrC7tr-329" value="Save Draft order" style="rounded=1;fillColor=#3899c6;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-1890.3029999999999" y="-967.713" width="106" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
